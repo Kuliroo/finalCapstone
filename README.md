@@ -1,5 +1,5 @@
 ### finalCapstone
-# _Project Name Finance Calculators_ 
+# _Finance Calculators_ 
 ## Project Description:
 The project is a financial interest calculator that offers two types of calculations: investment and bond. The user can choose between these options at the beginning. For investments, the calculator calculates the amount of interest earned based on the user's input of deposit amount, interest rate, number of years, and interest type (simple or compound). For bonds, the calculator calculates the monthly repayment amount based on the user's input of house value, interest rate, and number of months.
 
